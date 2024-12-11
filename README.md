@@ -7,7 +7,6 @@ Full Stack Developer
 I graduated from the University of Virginia with a Computer Engineering Degree. I've been a full stack developer for the past 3 years!
 
 * 🌍  I'm based in Washington DC metro area
-* ✉️  You can contact me at [steve.phan95@yahoo.com](mailto:steve.phan95@yahoo.com)
 * 🧠  I'm learning NextJS and GraphQL
 * 🤝  I'm open to collaborating on interesting projects!
 * ⚡  I love to read and travel! Hit me up for recommendations or ideas!
