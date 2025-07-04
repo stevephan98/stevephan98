@@ -4,11 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I graduated from the University of Virginia with a Computer Engineering Degree. I've been a full stack developer for the past 3 years!
 
-* 🌍  I'm based in Washington DC metro area
+* 🌍  I'm based in Virginia
 * 🧠  I'm learning NextJS and GraphQL
-* 🤝  I'm open to collaborating on interesting projects!
 * ⚡  I love to read and travel! Hit me up for recommendations or ideas!
 
 ### Skills
