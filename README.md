@@ -5,7 +5,6 @@ Full Stack Developer
 --------------------
 
 
-* 🌍  I'm based in Virginia
 * 🧠  I'm learning NextJS and GraphQL
 * ⚡  I love to read and travel! Hit me up for recommendations or ideas!
 
@@ -24,9 +23,7 @@ Full Stack Developer
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-### Socials
 
-<p align="left"> <a href="https://www.dev.to/stevephan98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/stevephan98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/stevephan-01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
